@@ -3,13 +3,13 @@
 
 Email Me 👉 ✉️ **ankitworking5@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
+- 🔭 **I’m currently working on:** A Fullstack Food Delivery App
+- 🌱 **I’m currently learning:** Backend Development
+- 👯 **I’m looking to collaborate on:** Food Delivery App
+- 🤔 **I’m looking for help with: ** Backend Development
+- 💬 **Ask me about:** Collaboration, Frotend development
 - 📫 **How to reach me:** ankitworking5@gmail.com
-- 😄 **Pronouns:** Ankit Bhaiya 
+- 😄 **Pronouns:** Ankit 
 - ⚡ **Fun fact:** I love Tech and Tech loves me
 
 <!-- Snake Game Repo View -->
